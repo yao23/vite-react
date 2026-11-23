@@ -14,7 +14,7 @@ A modern React + TypeScript + Vite starter with pre-configured ESLint, Prettier,
 ## Features
 
 - ⚡️ [Vite](https://vitejs.dev/) - Next Generation Frontend Tooling
-- ⚛️ [React 18](https://reactjs.org/) - A JavaScript library for building user interfaces
+- ⚛️ [React 19](https://reactjs.org/) - A JavaScript library for building user interfaces
 - 💎 [TypeScript](https://www.typescriptlang.org/) - Why not?!
 - 🔨 [ESLint](https://eslint.org/) - JavaScript linter
 - 🌀 [Prettier](https://prettier.io) - Code Formatter
